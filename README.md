@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Hello, I'm Hieu](assets/bg.gif)](https://github.com/duyhieunguyenle1)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/26810560277445237/) on [Pinterest](https://www.pinterest.com/).
+Background GIF by [Unknown...](https://www.pinterest.com/pin/26810560277445237/) on [Pinterest](https://www.pinterest.com/).
 
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/duyhieunguyenle1) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:duyhieunguyen1011@gmail.com?subject=Hello%20Hieu,%20From%20Github)
