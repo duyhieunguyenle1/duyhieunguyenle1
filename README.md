@@ -34,7 +34,7 @@ Background GIF by [Unknown...](https://www.pinterest.com/pin/26810560277445237/)
 
 ### Backend
 
-[![Node.js, Express, Prisma](https://skillicons.dev/icons?i=nodejs,express,prisma,cpp)](https://skillicons.dev)
+[![Node.js, Express, Prisma](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)
 
 ### Database
 
