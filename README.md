@@ -25,13 +25,16 @@ Background GIF by [Unknown...](https://www.pinterest.com/pin/26810560277445237/)
 
 ## 💻 My Tech Stack:
 
+### Language
+[![JavaScript, TypeScript, Java, C++](https://skillicons.dev/icons?i=js,ts,java,cpp)](https://skillicons.dev)
+
 ### Frontend
 
-[![Next.js, React, Redux, JavaScript, TypeScript, Sass, Css, Html, MaterialUI, Tailwind](https://skillicons.dev/icons?i=next,react,redux,js,ts,sass,css,html,materialui,tailwind)](https://skillicons.dev)
+[![Next.js, React, Redux, Sass, Css, Html, MaterialUI, Tailwind, Vite](https://skillicons.dev/icons?i=next,react,redux,sass,css,html,materialui,tailwind,vite)](https://skillicons.dev)
 
 ### Backend
 
-[![Node.js, Express, Prisma, C++](https://skillicons.dev/icons?i=nodejs,express,prisma,cpp)](https://skillicons.dev)
+[![Node.js, Express, Prisma](https://skillicons.dev/icons?i=nodejs,express,prisma,cpp)](https://skillicons.dev)
 
 ### Database
 
