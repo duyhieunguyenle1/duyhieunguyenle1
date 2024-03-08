@@ -39,6 +39,6 @@ Background GIF by [Unknown...](https://www.pinterest.com/pin/26810560277445237/)
 
 ### Other
 
-[![Postman, Git, Figma, Ae, Ai, Blender](https://skillicons.dev/icons?i=postman,git,figma,ae,ai,blender)](https://skillicons.dev)
+[![Postman, Git, Docker, Figma, Ae, Ai, Blender](https://skillicons.dev/icons?i=postman,git,docker,figma,ae,ai,blender)](https://skillicons.dev)
 
 </div>
