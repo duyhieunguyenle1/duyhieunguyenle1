@@ -34,14 +34,14 @@ Background GIF by [Unknown...](https://www.pinterest.com/pin/26810560277445237/)
 
 ### Backend
 
-[![Node.js, Express, Prisma](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)
+[![Node.js, Express, NestJs, Prisma](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma)](https://skillicons.dev)
 
 ### Database
 
-[![Mongodb, MySql, Postgres](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+[![Mongodb, MySql, Postgres, Redis](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://skillicons.dev)
 
 ### Other
 
-[![Postman, Git, Docker, Figma, Ae, Ai, Blender](https://skillicons.dev/icons?i=postman,git,docker,figma,ae,ai,blender)](https://skillicons.dev)
+[![Linux, Postman, Git, Docker, Figma, WordPress, Ai, Blender](https://skillicons.dev/icons?i=linux,postman,git,docker,figma,wordpress,ai,blender)](https://skillicons.dev)
 
 </div>
