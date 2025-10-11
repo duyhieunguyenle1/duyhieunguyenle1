@@ -23,6 +23,14 @@ Background GIF by [Unknown...](https://www.pinterest.com/pin/26810560277445237/)
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
+# 🔥Github Stats 
+<p align=left>
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=duyhieunguyenle1&count_private=true&show_icons=true&theme=react' />
+<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=duyhieunguyenle1&theme=react' />
+<img algin='left' width='34%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=duyhieunguyenle1&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8' />
+<img algin='right' width='65%' src='https://github-trophies.vercel.app/?username=duyhieunguyenle1&theme=radical&no-frame=false&no-bg=false'/>
+</p>
+
 ## 💻 My Tech Stack:
 
 ### Language
